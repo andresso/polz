@@ -8,7 +8,7 @@
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/Andresso/polz.git
+1. git clone https://github.com/andresso/polz.git
 2. cd polz
 ```
 
